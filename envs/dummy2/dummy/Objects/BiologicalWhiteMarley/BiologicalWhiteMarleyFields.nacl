@@ -9,17 +9,17 @@ type dummy.BiologicalWhiteMarley {
   }
   "List<hidden_boolean>" DevelopingAmberOfilia {
     _required = true
-    _hidden = false
+    _hidden = true
     _hidden_value = true
   }
   dummy.RadicalVioletJoleen XenophobicGoldMinda {
-    FreeGrayKanya = 571
+    FreeGrayKanya = 153
     QuickMoccasinCorrena = {
-      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
     }
-    GradualLimeCaro = true
-    SevereCoffeeVanda = 192
-    BackGrayTiff = "My first time using an elevator was an uplifting experience. The second time let me down."
+    GradualLimeCaro = false
+    SevereCoffeeVanda = 504
+    BackGrayTiff = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
   }
   "List<boolean>" WorryingVioletNicola {
   }
@@ -47,13 +47,13 @@ type dummy.BiologicalWhiteMarley {
   }
   hidden_boolean SweetOliveKay {
     _required = true
-    _hidden = true
+    _hidden = false
     _hidden_value = true
   }
   string AppropriateRedJoceline {
   }
   hidden_boolean HighCoralBernardine {
-    _required = true
+    _required = false
     _hidden = true
     _hidden_value = true
   }

@@ -45,49 +45,74 @@ type dummy.BiologicalWhiteMarley {
     serviceid_number EmotionalFuchsiaLibby {
     }
   }
-  HugeBrownSonya = false
-  VaryingCyanElwira = false
-  PetiteMaroonJoela = 127
-  ScreechingAquaCaprice = 8
-  LinguisticCoffeeDeirdre = 401
-  NovelCrimsonLavinia = false
+  HugeBrownSonya = true
+  VaryingCyanElwira = true
+  PetiteMaroonJoela = 927
+  ScreechingAquaCaprice = 996
+  LinguisticCoffeeDeirdre = 947
+  NovelCrimsonLavinia = true
   VastLavenderHalli = false
-  CivilianSilverCariotta = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
-  SwiftIndigoJulee = 185
+  CivilianSilverCariotta = "Why did the tomato blush? Because it saw the salad dressing."
+  SwiftIndigoJulee = 662
   SharpPurpleKlarika = {
-    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    legit = "Slept like a log last night  woke up in the fireplace."
   }
-  YappiestApricotJoell = false
+  YappiestApricotJoell = true
   LiveTanDeloris = {
-    legit = "What creature is smarter than a talking parrot? A spelling bee."
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
   }
   EvolutionaryCoffeeMab = false
-  FashionablePlumNevsa = "A steak pun is a rare medium well done."
-  CommunistSilverIlise = "Did you hear about the guy whose whole left side was cut off? He's all right now."
-  CondemnedAzureJeannine = 227
-  SecurePinkDion = true
-  SpotlessGoldAuroora = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
-  EmotionalFuchsiaLibby = 437
+  FashionablePlumNevsa = "Dad Im hungry  Hi hungry Im dad"
+  CommunistSilverIlise = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  CondemnedAzureJeannine = 500
+  SecurePinkDion = false
+  SpotlessGoldAuroora = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  EmotionalFuchsiaLibby = 429
   _important_values = [
     {
-      value = "DueOrangeElysee"
+      value = "AdverseAmethystLonnie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "LooseEmeraldBab"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "IndividualIndigoAlfie"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "SweetOliveKay"
       highlighted = true
       indexed = false
+    },
+    {
+      value = "SensitivePurpleJosefa"
+      highlighted = true
+      indexed = true
     },
   ]
   _self_important_values = [
     {
-      value = "EvolutionaryCoffeeMab"
-      highlighted = false
-      indexed = true
-    },
-    {
-      value = "SharpPurpleKlarika"
+      value = "FashionablePlumNevsa"
       highlighted = true
       indexed = false
     },
     {
       value = "SecurePinkDion"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "PetiteMaroonJoela"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "VastLavenderHalli"
       highlighted = false
       indexed = true
     },
