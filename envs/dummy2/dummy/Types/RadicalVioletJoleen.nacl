@@ -1,0 +1,138 @@
+type dummy.RadicalVioletJoleen {
+  annotations {
+    serviceid_number FreeGrayKanya {
+    }
+    dummy.DEFAULT QuickMoccasinCorrena {
+    }
+    boolean GradualLimeCaro {
+    }
+    number SevereCoffeeVanda {
+    }
+    hidden_boolean ExternalGreenYelena {
+    }
+    serviceid BackGrayTiff {
+    }
+  }
+  boolean ConsistentBronzeAlix {
+    _hidden_value = true
+  }
+  "Map<boolean>" WarmAmaranthShelley {
+    _hidden_value = true
+  }
+  dummy.MedicalTurquoiseMaryanne AdvisoryAquaBritney {
+    PrimitiveBeigeJoletta = "Why did the tomato blush? Because it saw the salad dressing."
+    LeadingTurquoiseBettine = 909
+    KindWhiteCloe = "What did one nut say as he chased another nut?  I'm a cashew!"
+    CoastalLimeCacilie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ImplicitEmeraldDreddy = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    UnhappyPurpleAshil = "What do you call two barracuda fish?  A Pairacuda!"
+    UnevenBrownDasha = 981
+    _hidden_value = true
+  }
+  serviceid SuitableAmaranthCharin {
+    _hidden_value = true
+  }
+  serviceid AutomaticTomatoKatleen {
+    _hidden_value = true
+  }
+  hidden_boolean MatureSapphireAlia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number XenaciousCoffeeCassandra {
+    _hidden_value = true
+  }
+  hidden_boolean CriticalHarlequinAvril {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid SeriousLimeHarriett {
+    _hidden_value = true
+  }
+  serviceid_number SpottySilverGabbie {
+    _hidden_value = true
+  }
+  boolean ShortAquamarineFanchon {
+    _hidden_value = true
+  }
+  serviceid_number PrettyEmeraldPatty {
+    _hidden_value = true
+  }
+  hidden_boolean MagnificentIndigoIlyssa {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  dummy.DEFAULT GoodTurquoiseCammie {
+    _hidden_value = true
+  }
+  serviceid_number UnlikelyApricotYovonnda {
+    _hidden_value = true
+  }
+  string UnknownCoralAlethea {
+    _hidden_value = true
+  }
+  string AngryVioletDallas {
+    _hidden_value = true
+  }
+  serviceid HumanLimeShirlene {
+    _hidden_value = true
+  }
+  serviceid PremierAzureCathy {
+    _hidden_value = true
+  }
+  number MathematicalVioletAlicea {
+    _hidden_value = true
+  }
+  hidden_boolean UsualWhiteGeorgena {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json LateLavenderQuintina {
+    _hidden_value = true
+  }
+  serviceid_number MadAquamarineSayre {
+    _hidden_value = true
+  }
+  string RollingBlackMoria {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" ThoroughTomatoZena {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string EntitledCoralJen {
+    _hidden_value = true
+  }
+  FreeGrayKanya = 492
+  QuickMoccasinCorrena = {
+    legit = "Why did the kid cross the playground? To get to the other slide."
+  }
+  GradualLimeCaro = true
+  SevereCoffeeVanda = 30
+  BackGrayTiff = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+  _important_values = [
+    {
+      value = "LateLavenderQuintina"
+      highlighted = true
+      indexed = true
+    },
+    {
+      value = "PrettyEmeraldPatty"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "ExternalGreenYelena"
+      highlighted = true
+      indexed = true
+    },
+  ]
+}
