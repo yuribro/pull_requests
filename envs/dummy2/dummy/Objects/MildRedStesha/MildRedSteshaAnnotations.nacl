@@ -1,0 +1,81 @@
+type dummy.MildRedStesha {
+  annotations {
+    serviceid CorrespondingRedVerile {
+    }
+    serviceid_number UnknownRedMelicent {
+    }
+    string NuttySapphireDulci {
+    }
+    boolean ImplicitYellowChiquita {
+    }
+    hidden_boolean MarkedSalmonLucille {
+    }
+    serviceid_number VoluntaryPurpleBerni {
+    }
+    dummy.MedicalTurquoiseMaryanne PureLavenderVivienne {
+    }
+    boolean FundamentalCopperAmeline {
+    }
+    hidden_boolean XerothermicPlumKarlee {
+    }
+    string TenderSapphireDido {
+    }
+    dummy.MedicalTurquoiseMaryanne AmbitiousLimeElinor {
+    }
+    string MuddyMoccasinSorcha {
+    }
+    serviceid ChronicPinkIlyssa {
+    }
+    json DampIndigoMinta {
+    }
+    boolean ProspectiveCrimsonMirabelle {
+    }
+    number CleanPeachFleur {
+    }
+    string HarshJadeElsie {
+    }
+    serviceid_number NervousOrangeAnnecorinne {
+    }
+    hidden_boolean ApparentRoseBarbaraanne {
+    }
+    json BoringGreenGillian {
+    }
+  }
+  CorrespondingRedVerile = "Slept like a log last night  woke up in the fireplace."
+  UnknownRedMelicent = 206
+  NuttySapphireDulci = "Did you know that protons have mass? I didn't even know they were catholic."
+  ImplicitYellowChiquita = true
+  VoluntaryPurpleBerni = 941
+  PureLavenderVivienne = false
+  FundamentalCopperAmeline = true
+  TenderSapphireDido = "Why didnt the skeleton cross the road? Because he had no guts."
+  AmbitiousLimeElinor = true
+  MuddyMoccasinSorcha = "Dad Im hungry  Hi hungry Im dad"
+  ChronicPinkIlyssa = "My first time using an elevator was an uplifting experience. The second time let me down."
+  DampIndigoMinta = "Did you know that protons have mass? I didn't even know they were catholic."
+  ProspectiveCrimsonMirabelle = false
+  CleanPeachFleur = 351
+  HarshJadeElsie = "I'll tell you what often gets over looked... garden fences."
+  NervousOrangeAnnecorinne = 550
+  BoringGreenGillian = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _important_values = [
+    {
+      value = "EndlessGreenRandi"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "LegitimateTomatoChristiana"
+      highlighted = true
+      indexed = false
+    },
+  ]
+  _self_important_values = [
+    {
+      value = "PureLavenderVivienne"
+      highlighted = true
+      indexed = true
+    },
+  ]
+  _alias = "MildRedStesha_alias"
+}

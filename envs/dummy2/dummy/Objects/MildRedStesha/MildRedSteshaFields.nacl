@@ -1,0 +1,72 @@
+type dummy.MildRedStesha {
+  serviceid SleepyPeachKrystyna {
+  }
+  dummy.RadicalVioletJoleen InadequateAquamarineLavena {
+    FreeGrayKanya = 143
+    QuickMoccasinCorrena = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    GradualLimeCaro = false
+    SevereCoffeeVanda = 269
+    BackGrayTiff = "I'll tell you what often gets over looked... garden fences."
+  }
+  number AestheticAmaranthStoddard {
+  }
+  dummy.MedicalTurquoiseMaryanne InsufficientSalmonBlinni {
+    PrimitiveBeigeJoletta = "Slept like a log last night  woke up in the fireplace."
+    LeadingTurquoiseBettine = 447
+    KindWhiteCloe = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    CoastalLimeCacilie = "Why did the kid cross the playground? To get to the other slide."
+    ImplicitEmeraldDreddy = "What do you call two barracuda fish?  A Pairacuda!"
+    UnhappyPurpleAshil = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    UnevenBrownDasha = 668
+  }
+  number WilyCopperWynny {
+  }
+  boolean PositiveFuchsiaFred {
+  }
+  string ConsistentBronzeMatti {
+  }
+  dummy.DEFAULT InformalMagentaWren {
+  }
+  string BiologicalCoralZara {
+  }
+  serviceid EntireAmethystBlythe {
+  }
+  string MassiveSalmonBibbye {
+  }
+  boolean ViolentEmeraldAlaine {
+  }
+  string TastelessAzureMella {
+  }
+  serviceid_number WorthyAmberRose {
+  }
+  number LegitimateTomatoChristiana {
+  }
+  json EmptyPeachClio {
+  }
+  json NorthernLavenderLizzy {
+  }
+  dummy.RadicalVioletJoleen EndlessGreenRandi {
+    FreeGrayKanya = 59
+    QuickMoccasinCorrena = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    GradualLimeCaro = true
+    SevereCoffeeVanda = 157
+    BackGrayTiff = "Why did the tomato blush? Because it saw the salad dressing."
+  }
+  serviceid BrokenLavenderHyacinthe {
+  }
+  json DistantChocolateAlika {
+  }
+  json PsychologicalYellowBarbabra {
+  }
+  hidden_boolean DesperateBeigeSophi {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ProvincialMoccasinJustine {
+  }
+}

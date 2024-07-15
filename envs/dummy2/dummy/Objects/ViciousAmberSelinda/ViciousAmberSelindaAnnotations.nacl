@@ -1,0 +1,87 @@
+type dummy.ViciousAmberSelinda {
+  annotations {
+    string IrrelevantTanMelli {
+    }
+    string JointMaroonVirgina {
+    }
+    string AccurateApricotGratiana {
+    }
+    number ZealousMaroonCaprice {
+    }
+    boolean BalancedAmberOdette {
+    }
+    dummy.DEFAULT FlutteringAmaranthElwira {
+    }
+    string HistoricTurquoiseBlisse {
+    }
+    serviceid_number FrontBeigeGlynnis {
+    }
+    boolean FewTurquoiseRoby {
+    }
+    string YoungestBrownMorgen {
+    }
+    string PastAquaSheree {
+    }
+    string SurroundingAquamarineFayette {
+    }
+    number WilfulGoldGisela {
+    }
+    json ProfoundMoccasinAlfie {
+    }
+    serviceid MassTealAnne {
+    }
+    serviceid_number InnocentSilverMargery {
+    }
+    serviceid TrickyMagentaVida {
+    }
+    boolean YawningWhiteEmelda {
+    }
+    string GlamorousAmethystYoko {
+    }
+    json ActualRedMead {
+    }
+    serviceid_number EncouragingBlushCory {
+    }
+  }
+  IrrelevantTanMelli = "Why did the kid cross the playground? To get to the other slide."
+  JointMaroonVirgina = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  AccurateApricotGratiana = "Im only familiar with 25 letters in the English language. I dont know why."
+  ZealousMaroonCaprice = 816
+  BalancedAmberOdette = true
+  FlutteringAmaranthElwira = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  HistoricTurquoiseBlisse = "Why didnt the skeleton cross the road? Because he had no guts."
+  FrontBeigeGlynnis = 398
+  FewTurquoiseRoby = true
+  YoungestBrownMorgen = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  PastAquaSheree = "How come the stadium got hot after the game? Because all of the fans left."
+  SurroundingAquamarineFayette = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  WilfulGoldGisela = 803
+  ProfoundMoccasinAlfie = "Dad Im hungry  Hi hungry Im dad"
+  MassTealAnne = "What do you call two barracuda fish?  A Pairacuda!"
+  InnocentSilverMargery = 881
+  TrickyMagentaVida = "Why was it called the dark ages? Because of all the knights. "
+  YawningWhiteEmelda = true
+  GlamorousAmethystYoko = "How come the stadium got hot after the game? Because all of the fans left."
+  ActualRedMead = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  EncouragingBlushCory = 98
+  _self_important_values = [
+    {
+      value = "JointMaroonVirgina"
+      highlighted = false
+      indexed = true
+    },
+    {
+      value = "SurroundingAquamarineFayette"
+      highlighted = true
+      indexed = false
+    },
+    {
+      value = "ZealousMaroonCaprice"
+      highlighted = false
+      indexed = true
+    },
+  ]
+  _alias = "ViciousAmberSelinda_alias"
+}

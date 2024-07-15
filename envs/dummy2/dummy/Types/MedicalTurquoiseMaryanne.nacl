@@ -1,0 +1,29 @@
+type dummy.MedicalTurquoiseMaryanne is boolean {
+  annotations {
+    json PrimitiveBeigeJoletta {
+    }
+    hidden_boolean PriorHarlequinPatsy {
+    }
+    hidden_boolean BoldJadeChristiane {
+    }
+    serviceid_number LeadingTurquoiseBettine {
+    }
+    string KindWhiteCloe {
+    }
+    string CoastalLimeCacilie {
+    }
+    serviceid ImplicitEmeraldDreddy {
+    }
+    string UnhappyPurpleAshil {
+    }
+    number UnevenBrownDasha {
+    }
+  }
+  PrimitiveBeigeJoletta = "Did you know that protons have mass? I didn't even know they were catholic."
+  LeadingTurquoiseBettine = 223
+  KindWhiteCloe = "Why is Peter Pan always flying? Because he Neverlands."
+  CoastalLimeCacilie = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ImplicitEmeraldDreddy = "I'll tell you what often gets over looked... garden fences."
+  UnhappyPurpleAshil = "Why did the tomato blush? Because it saw the salad dressing."
+  UnevenBrownDasha = 605
+}
